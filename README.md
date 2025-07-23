@@ -1,4 +1,4 @@
-# Train-App-Simulation
+# Train-App-Simulation : C++/Kotlin Version
 The `Account` class provides functionalities for managing user accounts, including email validation, password security checks, encryption, and authentication. Below is a detailed description of the class and its methods:
 
 ### Class: Account
